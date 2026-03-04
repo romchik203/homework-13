@@ -1,0 +1,116 @@
+======================================================================
+                    ОТЧЁТ VIRUSTOTAL ПО ФАЙЛУ
+======================================================================
+
+▸ ИНФОРМАЦИЯ О ФАЙЛЕ
+--------------------------------------------------
+  Имя (основное):  eicar.com.txt
+  Размер:          68 байт
+  Тип:             Powershell
+  Расширение:      ps1
+  Известные имена: eicar.com.txt, eicar.com-19060, 55club_payload.txt, eicar.com-14826, eicar.com-10460, eicar.com-5041, eicar.com-49077, eicar.com-44869, eicar.com-40353, eicar.com
+                   ... и ещё 88 вариантов
+
+▸ ХЕШИ
+--------------------------------------------------
+  MD5:    44d88612fea8a8f36de82e1278abb02f
+  SHA-1:  3395856ce81f2b7382dee72602f798b642f14140
+  SHA-256: 275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f
+
+▸ РЕЗУЛЬТАТЫ СКАНИРОВАНИЯ (антивирусные движки)
+--------------------------------------------------
+  Всего движков:   76
+  Обнаружено:      62 (вредоносное)
+  Подозрительно:   0
+  Без угрозы:      3 (undetected)
+  Безвредно:       0
+  Итог:            81.6% движков считают файл подозрительным/вредоносным
+
+▸ РЕПУТАЦИЯ И КЛАССИФИКАЦИЯ
+--------------------------------------------------
+  Репутация (VT):  3725
+  Метка угрозы:     virus.eicar/test
+
+▸ ДВИЖКИ, ОБНАРУЖИВШИЕ УГРОЗУ
+--------------------------------------------------
+  • ALYac                     → Misc.Eicar-Test-File
+  • APEX                      → EICAR Anti-Virus Test File
+  • AhnLab-V3                 → Virus/EICAR_Test_File
+  • Alibaba                   → Virus:Win32/EICAR.A
+  • Antiy-AVL                 → TestFile/Win32.EICAR
+  • Arcabit                   → EICAR-Test-File (not a virus)
+  • Avast-Mobile              → Eicar
+  • Avira                     → Eicar-Test-Signature
+  • Baidu                     → Win32.Test.Eicar.a
+  • BitDefender               → EICAR-Test-File (not a virus)
+  • Bkav                      → W32.EicarTest.Trojan
+  • CAT-QuickHeal             → EICAR.TestFile
+  • CTX                       → txt.virus.eicar
+  • ClamAV                    → Eicar-Test-Signature
+  • Cynet                     → Malicious (score: 99)
+  • DrWeb                     → EICAR Test File (NOT a Virus!)
+  • ESET-NOD32                → Eicar test file
+  • Elastic                   → eicar
+  • Emsisoft                  → EICAR-Test-File (A)
+  • F-Secure                  → EICAR_Test_File
+  • Fortinet                  → EICAR_TEST_FILE
+  • GData                     → EICAR_TEST_FILE
+  • Google                    → Detected
+  • Gridinsoft                → Trojan.U.EICAR_Test_File.dd
+  • Ikarus                    → EICAR-Test-File
+  • Jiangmin                  → EICAR-Test-File
+  • K7AntiVirus               → EICAR_Test_File
+  • K7GW                      → EICAR_Test_File
+  • Kingsoft                  → Test.eicar.aa
+  • Lionic                    → Test.File.EICAR.y
+  • Malwarebytes              → EICAR-AV-Test
+  • MaxSecure                 → VIRUS.EICAR.TEST
+  • McAfeeD                   → WPS!EICAR
+  • MicroWorld-eScan          → EICAR-Test-File
+  • Microsoft                 → Virus:DOS/EICAR_Test_File
+  • NANO-Antivirus            → Marker.Dos.EICAR-Test-File.dyb
+  • Panda                     → EICAR-AV-TEST-FILE
+  • Rising                    → Virus.EICARTestFile!1.103DB (CLASSIC)
+  • SUPERAntiSpyware          → NotAThreat.EICAR[TestFile]
+  • Sangfor                   → EICAR-Test-File (not a virus)
+  • SentinelOne               → Static AI - Malicious COM
+  • Skyhigh                   → EICAR test file
+  • Sophos                    → EICAR-AV-Test
+  • SymantecMobileInsight     → ALG:EICAR Test String
+  • TACHYON                   → EICAR-Test-File
+  • Tencent                   → EICAR.TEST.NOT-A-VIRUS
+  • TrellixENS                → EICAR test file
+  • TrendMicro                → Eicar_test_file
+  • TrendMicro-HouseCall      → Eicar_test_file
+  • VBA32                     → EICAR-Test-File
+  • VIPRE                     → EICAR-Test-File (not a virus)
+  • Varist                    → EICAR_Test_File
+  • ViRobot                   → EICAR-test
+  • VirIT                     → EICAR-Test-File
+  • Webroot                   → W32.Eicar.Testvirus.Gen
+  • Xcitium                   → Malware@#2975xfk8s2pq1
+  • Yandex                    → EICAR_test_file
+  • Zillya                    → EICAR.TestFile
+  • ZoneAlarm                 → EICAR-AV-Test
+  • Zoner                     → EICAR.Test.File-NoVirus.250
+  • alibabacloud              → Engtest:Multi/Eicar
+  • huorong                   → TEST/AVEngTestFile!EICAR
+
+▸ ТЕГИ
+--------------------------------------------------
+  detect-debug-environment, attachment, idle, known-distributor, via-tor, direct-cpu-clock-access, long-sleeps, powershell
+
+▸ ВЕРДИКТЫ ПЕСОЧНИЦ
+--------------------------------------------------
+  • Zenbox: malicious
+  • Lastline: malicious
+  • OS X Sandbox: malicious
+  • Yomi Hunter: harmless
+
+▸ ДАТЫ
+--------------------------------------------------
+  Последний анализ: 2026-03-04 06:24:26 UTC
+
+======================================================================
+Сырой JSON сохранён в: virustotal_response.json
+======================================================================
